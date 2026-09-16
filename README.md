@@ -125,25 +125,6 @@ I'm a developer and designer who started programming at 16 and has been building
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alirezabahador&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alirezabahador&theme=tokyonight&hide_border=true" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezabahador&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alirezabahador&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 ```text
