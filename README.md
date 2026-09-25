@@ -141,49 +141,55 @@ I build products end to end — from database schema to pixel-perfect UI — and
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alirezabahador&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezabahador&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alirezabahador&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezabahador&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alirezabahador&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alirezabahador&theme=tokyo-night&hide_border=true" width="100%" />
+<img src="https://github-readme-trophies.vercel.app/?username=alirezabahador&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alirezabahador&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
-> ⚠️ Swap `alirezabahador` in the stats URLs above for your exact GitHub username if it differs — these cards render live from GitHub's API.
+> ⚠️ Replace `alirezabahador` in every stats URL above with your exact GitHub username — these cards pull live data from GitHub's API and won't render correctly (or at all) otherwise.
 
 <br/>
 
-## 🎯 Current Focus
+## 🎯 Roadmap
 
-```text
-┌──────────────────────────────────────────────────────────────────┐
-│  → Shipping full-stack apps with a security-reviewed pipeline    │
-│  → Refining a personal UI/UX design system                       │
-│  → Working toward CEH and hands-on pentest certifications        │
-│  → Exploring applied ML integrations in production apps          │
-└──────────────────────────────────────────────────────────────────┘
-```
+| Status | Goal |
+|:--:|:--|
+| 🟢 In progress | Shipping full-stack apps with a security-reviewed development pipeline |
+| 🟢 In progress | Refining a personal, reusable UI/UX design system |
+| 🟡 Studying | CEH concepts & hands-on pentest certification path |
+| 🟡 Studying | AWS cloud security fundamentals |
+| 🔵 Exploring | Applied ML integrations inside production apps |
 
 <br/>
 
 <div align="center">
 
-## 🤝 Let's Connect
+## 🤝 Let's Build Something
+
+Open to full-stack projects, UI/UX collaborations, and security-review work.
 
 <a href="https://alirezabahador.ir"><img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
 <a href="mailto:info@AlirezaBahador.ir"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/alirezabahador"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
 <i>"Design with intent. Build with precision. Secure by default."</i>
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:0F2027&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:0F2027&height=150&section=footer&text=Thanks%20for%20visiting&fontSize=20&fontColor=ffffff&fontAlignY=75" width="100%" />
 
 </div>
