@@ -21,6 +21,12 @@
 
 ---
 
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00F2FE&height=220&section=header&text=AliReza%20Bahador&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18" width="100%" /> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Building+Clean+%26+Scalable+Web+Apps;Designing+Interfaces+That+Feel+Right;Breaking+Things+to+Learn+How+to+Defend+Them;5%2B+Years+of+Shipping+Real+Products" alt="Typing SVG" /> <br/>
+
+<a href="https://alirezabahador.ir"><img src="https://img.shields.io/badge/Portfolio-alirezabahador.ir-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=00F2FE" /></a> <a href="mailto:info@AlirezaBahador.ir"><img src="https://img.shields.io/badge/Email-Contact%20Me-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a> <img src="https://img.shields.io/badge/Location-Mashhad%2C%20Iran-0A0A0A?style=for-the-badge&logo=googlemaps&logoColor=2E8B57" /> <img src="https://komarev.com/ghpvc/?username=alirezabahador&label=Profile%20Views&color=0A0A0A&style=for-the-badge" alt="Profile Views" />
+
+</div> <br/>
+
 ## 👨‍💻 About Me
 
 ```yaml
