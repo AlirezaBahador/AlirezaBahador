@@ -18,7 +18,7 @@ role:        Full-Stack Developer & UI/UX Designer
 location:    Mashhad, Iran
 experience:  ~5 years (started at 16)
 focus:       Web Development · Game Development · UI/UX · Cybersecurity
-languages:   Persian (Native) · English (Fluent) · Turkish (Conversational)
+languages:   Persian & English (Main) · Russian & Turkish (Secondary)
 philosophy:  Clean code, thoughtful design, continuous learning
 ```
 
@@ -35,10 +35,10 @@ I'm a developer and designer who started programming at 16 and has been building
 ## 🌍 Spoken Languages
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Persian-Native-0A0A0A?style=for-the-badge&logo=googletranslate&logoColor=00F2FE" />
-  <img src="https://img.shields.io/badge/English-Fluent-0A0A0A?style=for-the-badge&logo=googletranslate&logoColor=00F2FE" />
-  <img src="https://img.shields.io/badge/Turkish-Conversational-0A0A0A?style=for-the-badge&logo=googletranslate&logoColor=00F2FE" />
-  <img src="https://img.shields.io/badge/Arabic-Basic-0A0A0A?style=for-the-badge&logo=googletranslate&logoColor=00F2FE" />
+  <img src="https://img.shields.io/badge/Persian-Main-0A0A0A?style=for-the-badge&logo=googletranslate&logoColor=00F2FE" />
+  <img src="https://img.shields.io/badge/English-Main-0A0A0A?style=for-the-badge&logo=googletranslate&logoColor=00F2FE" />
+  <img src="https://img.shields.io/badge/Russian-Secondary-0A0A0A?style=for-the-badge&logo=googletranslate&logoColor=888888" />
+  <img src="https://img.shields.io/badge/Turkish-Secondary-0A0A0A?style=for-the-badge&logo=googletranslate&logoColor=888888" />
 </p>
 
 ---
@@ -139,6 +139,63 @@ I'm a developer and designer who started programming at 16 and has been building
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 Project One
+**Full-stack e-commerce platform** with real-time inventory, JWT auth, and a custom admin dashboard.
+
+`React` `Node.js` `PostgreSQL` `Redis`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-0A0A0A?style=for-the-badge&logo=github&logoColor=00F2FE)](#)
+
+</td>
+<td width="50%">
+
+### 🔐 Project Two
+**Automated recon & vulnerability scanner** — chains Nmap, Nikto, and custom Python modules into one CLI.
+
+`Python` `Bash` `Docker`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-0A0A0A?style=for-the-badge&logo=github&logoColor=00F2FE)](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎮 Project Three
+**2D pixel-art platformer** built solo — engine, level design, and pixel art all handcrafted.
+
+`Godot` `GDScript`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-0A0A0A?style=for-the-badge&logo=github&logoColor=00F2FE)](#)
+
+</td>
+<td width="50%">
+
+### 🎨 Project Four
+**Design system & component library** used across multiple client projects — Figma tokens synced to code.
+
+`Figma` `TypeScript` `Tailwind`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-0A0A0A?style=for-the-badge&logo=github&logoColor=00F2FE)](#)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+> ✏️ **Note:** Swap the titles, stacks, and `#` links above with your real repo URLs — this section is the first thing recruiters click into.
+
+---
+
 ## 📊 Proficiency
 
 | Domain | Level | Progress |
@@ -150,6 +207,83 @@ I'm a developer and designer who started programming at 16 and has been building
 | 🎨 **UI/UX Design** | Intermediate | `███████████████░░░░░` 75% |
 | ☁️ **DevOps & Deployment** | Intermediate | `██████████████░░░░░░` 70% |
 | 🤖 **Machine Learning Fundamentals** | Learning | `███████████░░░░░░░░░` 55% |
+
+---
+
+## 🧭 My Journey
+
+```text
+2018 ─┬─ Started coding at 16 — first "Hello World" in Python
+      │
+2019 ─┼─ Dove into web dev — HTML/CSS/JS, shipped first freelance site
+      │
+2020 ─┼─ Picked up React & Node — moved into full-stack territory
+      │
+2021 ─┼─ Started designing UI/UX seriously — Figma became second home
+      │
+2022 ─┼─ First paid full-stack contracts — real clients, real stakes
+      │
+2023 ─┼─ Got curious about security — started CTFs on TryHackMe
+      │
+2024 ─┼─ Expanded into game dev — shipped first solo Godot project
+      │
+2025 ─┼─ Deepened pentesting skills — Burp Suite, Metasploit, HTB
+      │
+2026 ─┴─ Chasing CEH, exploring ML, building bigger & better things
+```
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alirezabahador&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1&column=7" />
+</div>
+
+---
+
+## 📅 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alirezabahador&theme=tokyo-night&hide_border=true&bg_color=0A0A0A&color=00F2FE&line=00F2FE&point=ffffff" width="95%" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alirezabahador/alirezabahador/output/github-contribution-grid-snake-dark.svg" width="95%" />
+</div>
+
+> ⚙️ The snake animation needs a one-time setup: add [Platane/snk](https://github.com/Platane/snk) as a GitHub Action in this repo so it generates the SVG automatically on a schedule.
+
+---
+
+## ⚡ Fun Facts
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+- ☕ Runs on coffee and dark-mode IDEs
+- ⌨️ Mechanical keyboard enthusiast
+- 🌙 Most productive between 11 PM – 3 AM
+- 🧩 Solves at least one CTF box a week
+- 🎧 Can't code without lo-fi or synthwave playing
+
+</td>
+<td width="50%" valign="top">
+
+- 🥇 First "real" project shipped at 16
+- 🐛 Genuinely enjoys hunting bugs (the security kind and the code kind)
+- 📚 Currently reading up on offensive Python tooling
+- 🕹️ Builds small games to unwind between client work
+- 🌱 Believes the best code is the code you can delete later
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -224,19 +358,6 @@ I'm a developer and designer who started programming at 16 and has been building
 │  → Picking up Rust for systems-level side projects          │
 └─────────────────────────────────────────────────────────────┘
 ```
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alirezabahador&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=00F2FE&icon_color=00F2FE" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezabahador&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=00F2FE" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alirezabahador&theme=tokyonight&hide_border=true&background=0A0A0A&ring=00F2FE&fire=00F2FE" width="60%" />
-</div>
 
 ---
 
