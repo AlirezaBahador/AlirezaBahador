@@ -234,29 +234,45 @@ I'm a developer and designer who started programming at 16 and has been building
 
 ---
 
-## 🏆 GitHub Trophies
+## 🖥️ My Setup
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alirezabahador&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1&column=7" />
-</div>
+<table>
+<tr>
+<td valign="top" width="50%">
+
+| | |
+|---|---|
+| 💻 **OS** | Kali Linux / Windows (dual-boot) |
+| ⌨️ **Editor** | VS Code |
+| 🖥️ **Terminal** | Windows Terminal / Zsh |
+| 🎨 **Theme** | Tokyo Night (Dark) |
+
+</td>
+<td valign="top" width="50%">
+
+| | |
+|---|---|
+| 🌐 **Browser** | Chrome / Firefox |
+| 🗂️ **API Client** | Postman |
+| 📦 **Version Control** | Git + GitHub |
+| 🎧 **Coding Soundtrack** | Lo-fi / Synthwave |
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📅 Contribution Activity
+## 🟢 Availability
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alirezabahador&theme=tokyo-night&hide_border=true&bg_color=0A0A0A&color=00F2FE&line=00F2FE&point=ffffff" width="95%" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Freelance%20%26%20Collab-2E8B57?style=for-the-badge&logo=statuspage&logoColor=white" />
+  <img src="https://img.shields.io/badge/Response%20Time-Within%2024h-0A0A0A?style=for-the-badge&logo=googlemessages&logoColor=00F2FE" />
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alirezabahador/alirezabahador/output/github-contribution-grid-snake-dark.svg" width="95%" />
-</div>
-
-> ⚙️ The snake animation needs a one-time setup: add [Platane/snk](https://github.com/Platane/snk) as a GitHub Action in this repo so it generates the SVG automatically on a schedule.
+<p align="center">
+Have a project, a bug bounty, or just want to talk shop? My inbox is open.
+</p>
 
 ---
 
@@ -371,8 +387,21 @@ I'm a developer and designer who started programming at 16 and has been building
 <a href="mailto:info@AlirezaBahador.ir">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 <br /><br />
+
+> ✏️ **Note:** Replace the `#` links above with your real LinkedIn / Telegram / Instagram URLs (or delete any you don't use).
+
+<br />
 
 <i>"Design with intent. Build with precision. Secure by default."</i>
 
