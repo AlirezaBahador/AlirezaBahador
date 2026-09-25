@@ -1,227 +1,189 @@
 <div align="center">
 
-# AliReza Bahador
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00F2FE&height=220&section=header&text=AliReza%20Bahador&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
 
-### Full-Stack Developer · UI/UX Designer · Cybersecurity Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Building+Clean+%26+Scalable+Web+Apps;Designing+Interfaces+That+Feel+Right;Breaking+Things+to+Learn+How+to+Defend+Them;5%2B+Years+of+Shipping+Real+Products" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=00F2FE&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;UI%2FUX+Designer;Cybersecurity+Enthusiast;Building+Clean+%26+Scalable+Solutions" alt="Typing SVG" />
+<br/>
 
-<br />
-
-<a href="https://alirezabahador.ir">
-  <img src="https://img.shields.io/badge/Website-alirezabahador.ir-00F2FE?style=flat-square&logo=googlechrome&logoColor=white" />
-</a>
-<a href="mailto:info@AlirezaBahador.ir">
-  <img src="https://img.shields.io/badge/Email-info@AlirezaBahador.ir-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/Location-Mashhad%2C%20Iran-2E8B57?style=flat-square&logo=googlemaps&logoColor=white" />
-<img src="https://komarev.com/ghpvc/?username=alirezabahador&label=Profile%20Views&color=00F2FE&style=flat-square" alt="Profile Views" />
+<a href="https://alirezabahador.ir"><img src="https://img.shields.io/badge/Portfolio-alirezabahador.ir-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=00F2FE" /></a>
+<a href="mailto:info@AlirezaBahador.ir"><img src="https://img.shields.io/badge/Email-Contact%20Me-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+<img src="https://img.shields.io/badge/Location-Mashhad%2C%20Iran-0A0A0A?style=for-the-badge&logo=googlemaps&logoColor=2E8B57" />
+<img src="https://komarev.com/ghpvc/?username=alirezabahador&label=Profile%20Views&color=0A0A0A&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## 🧭 Overview
 
 ```yaml
 name:        AliReza Bahador
 role:        Full-Stack Developer & UI/UX Designer
 location:    Mashhad, Iran
-experience:  ~5 years (started at 16)
-focus:       Web Development · Game Development · UI/UX · Cybersecurity
-philosophy:  Clean code, thoughtful design, continuous learning
+experience:  ~5 years (started coding at 16)
+focus:       Full-Stack Web · Game Dev · UI/UX · Application Security
+philosophy:  Ship fast. Design deliberately. Secure by default.
 ```
 
-I'm a developer and designer who started programming at 16 and has been building professionally for nearly five years. I care deeply about the intersection of **engineering precision** and **design clarity** — from backend architecture to pixel-perfect interfaces, with a security-first mindset baked into everything I ship.
+I build products end to end — from database schema to pixel-perfect UI — and I stress-test what I build the way an attacker would. That combination is the whole point: **software that works, looks right, and doesn't fall over when someone pokes at it.**
 
-- 🔭 **Currently building:** Full-Stack Web Projects & UI/UX Systems
-- 🌱 **Currently learning:** Cybersecurity · Ethical Hacking · Machine Learning
-- 💬 **Ask me about:** Web Development · UI/UX · Python · Ethical Hacking basics
-- ⚡ **Approach:** Ship fast, design deliberately, secure everything
+- 🔭 Currently building: full-stack web platforms with a security-reviewed development pipeline
+- 🌱 Currently deepening: offensive security, secure architecture, and applied ML
+- 💬 Talk to me about: system design, API architecture, UI/UX, and web app security
+- ⚡ Fun fact: I treat every project like it has to survive a pentest — because eventually, it does
 
----
+<br/>
 
-## 🛠️ Technical Arsenal
+## 🧱 Tech Stack
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td align="center" width="50%">
 
 **Languages**
-<br />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=js,ts,py,php,java,cpp,cs,go,swift" />
 
 </td>
-<td valign="top" width="50%">
+<td align="center" width="50%">
 
 **Frontend**
-<br />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,figma,xd" />
 
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
+<td align="center" width="50%">
 
-**Backend & Databases**
-<br />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django,fastapi,mysql,postgres,mongodb,redis" />
 
 </td>
-<td valign="top" width="50%">
+<td align="center" width="50%">
 
-**DevOps, Cloud & Tooling**
-<br />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+**DevOps & Tooling**
 
-</td>
-</tr>
-<tr>
-<td valign="top" colspan="2">
-
-**Design & Product**
-<br />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6" />
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,aws,linux,git,postman" />
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
 ## 📊 Proficiency
 
-| Domain | Level | Progress |
-|---|---|---|
-| 🌐 **Website Development (Frontend + Backend)** | Advanced | `██████████████████░░` 95% |
-| 🔗 **API Design & Integration (REST/GraphQL)** | Advanced | `█████████████████░░░` 88% |
-| 🎮 **Game Development** | Proficient | `█████████████████░░░` 85% |
-| 🛡️ **Application & Network Security** | Proficient | `████████████████░░░░` 80% |
-| 🎨 **UI/UX Design** | Intermediate | `███████████████░░░░░` 75% |
-| ☁️ **DevOps & Deployment** | Intermediate | `██████████████░░░░░░` 70% |
+<div align="center">
 
----
+| Domain | Level | |
+|:--|:--:|:--|
+| 🌐 Full-Stack Web Development | `95%` | ██████████████████░░ |
+| 🔗 API Design & Integration | `88%` | █████████████████░░░ |
+| 🛡️ Application & Network Security | `82%` | █████████████████░░░ |
+| 🎮 Game Development | `85%` | █████████████████░░░ |
+| 🎨 UI/UX Design | `78%` | ███████████████░░░░░ |
+| ☁️ DevOps & Cloud Deployment | `72%` | ██████████████░░░░░░ |
 
-## 🛡️ Cybersecurity & Ethical Hacking
+</div>
 
-**Methodology & Standards**
-- Reconnaissance → Scanning → Exploitation → Post-Exploitation → Reporting
-- OWASP Top 10 & OWASP ASVS — secure application design and review
-- MITRE ATT&CK framework awareness for adversary tactics/techniques
-- Responsible disclosure & documented, reproducible reporting
+<br/>
+
+## 🛡️ Offensive & Defensive Security
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=kali,wireshark,linux" />
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+
+</div>
+
+<br/>
+
+**Methodology** — I follow a structured pentest cycle: *Recon → Scan/Enumerate → Exploit → Post-Exploitation → Report*, aligned with **OWASP Top 10 / OWASP ASVS** and informed by the **MITRE ATT&CK** framework. Every finding gets documented with reproduction steps and a fix, not just a screenshot.
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
 **Offensive Security**
-- Web Application Penetration Testing (Burp Suite, OWASP ZAP)
-- Exploitation Frameworks (Metasploit)
-- Vulnerability Assessment & Scanning (Nessus, Nikto)
-- CTF Challenges (TryHackMe · Hack The Box)
-
-**Network Security**
-- TCP/IP, Firewalls, IDS/IPS fundamentals
-- Traffic & Protocol Analysis (Wireshark · Nmap)
-- Network Reconnaissance & Enumeration
+- Web app pentesting — Burp Suite, OWASP ZAP
+- Exploitation & post-exploitation — Metasploit
+- Vulnerability scanning — Nessus, Nikto
+- Recon & enumeration — Nmap, Wireshark
+- CTFs — TryHackMe, Hack The Box
 
 </td>
 <td valign="top" width="50%">
 
 **Defensive & Secure Development**
-- Secure Coding Practices (input validation, auth, session mgmt.)
-- Static Analysis & Dependency Auditing
-- Hardening for Linux servers & web stacks
-- Encryption fundamentals (TLS/SSL, hashing, JWT security)
-
-**Systems**
-- Kali Linux · System Administration · Bash Scripting
-- Automation for recon & reporting workflows
-
-**Currently Studying**
-- CEH (Certified Ethical Hacker) concepts
-- Python for Offensive Security
-- Cloud Security fundamentals (AWS)
+- Secure coding — input validation, auth, session handling
+- Dependency & static analysis auditing
+- Linux server & web-stack hardening
+- Transport & data security — TLS/SSL, hashing, JWT
 
 </td>
 </tr>
 </table>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-167EBA?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-</p>
+**Currently studying:** CEH concepts · Python for offensive security · AWS cloud security fundamentals
 
----
+<br/>
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=alirezabahador&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezabahador&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alirezabahador&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alirezabahador&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+> ⚠️ Swap `alirezabahador` in the stats URLs above for your exact GitHub username if it differs — these cards render live from GitHub's API.
+
+<br/>
 
 ## 🎯 Current Focus
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│  → Building full-stack web applications (React/Next + Node) │
-│  → Refining UI/UX design systems                            │
-│  → Deepening application & network security skills          │
-│  → Working toward CEH and hands-on pentest certifications   │
-│  → Exploring machine learning integrations                  │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────┐
+│  → Shipping full-stack apps with a security-reviewed pipeline    │
+│  → Refining a personal UI/UX design system                       │
+│  → Working toward CEH and hands-on pentest certifications        │
+│  → Exploring applied ML integrations in production apps          │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
----
+<br/>
 
 <div align="center">
 
-### 🤝 Let's Connect
+## 🤝 Let's Connect
 
-<a href="https://alirezabahador.ir">
-  <img src="https://img.shields.io/badge/Portfolio-alirezabahador.ir-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="mailto:info@AlirezaBahador.ir">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://alirezabahador.ir"><img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+<a href="mailto:info@AlirezaBahador.ir"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<br /><br />
+<br/><br/>
 
 <i>"Design with intent. Build with precision. Secure by default."</i>
 
-<br /><br />
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FE&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:0F2027&height=120&section=footer" width="100%" />
 
 </div>
